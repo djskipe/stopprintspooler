@@ -1,0 +1,1 @@
+This script is designed to stop the Windows print spooler service. It can be useful for troubleshooting or resolving issues related to print jobs stuck in the queue. Simply run the script to stop the spooler and restart it if needed."
